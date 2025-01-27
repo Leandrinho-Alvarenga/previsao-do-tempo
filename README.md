@@ -8,9 +8,6 @@ Este projeto é uma aplicação de previsão do tempo que fornece informações 
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Visão Geral
 
